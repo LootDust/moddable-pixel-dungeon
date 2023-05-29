@@ -4,7 +4,9 @@ I haven't complete the most basic changes that I want to make for this mod of SP
 
 # Moddable Pixel Dungeon
 
-[Shattered Pixel Dungeon](https://shatteredpixel.com/shatteredpd/) is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. Its based on the [source code of Pixel Dungeon](https://github.com/00-Evan/pixel-dungeon-gradle), by [Watabou](https://www.watabou.ru).
+Moddable Pixel Dungeon is a mod of [Shattered Pixel Dungeon](https://shatteredpixel.com/shatteredpd/), which is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. Its based on the [source code of Pixel Dungeon](https://github.com/00-Evan/pixel-dungeon-gradle), by [Watabou](https://www.watabou.ru).
+
+This mod's biggest feature is it supports players and modders in changing the game in this game. A new visualized way is given for everyone even who doesn't know how to programming. The init editor enables modders to add items, entities, level and more objects into the game, and its effects can be immediately seen during playing. (However, the editor is only available after players get though the whole game without mods at least one time.)
 
 Shattered Pixel Dungeon currently compiles for Android, iOS, and Desktop platforms. You can find official releases of the game on:
 
