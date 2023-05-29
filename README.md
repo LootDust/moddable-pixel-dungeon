@@ -1,6 +1,6 @@
 # Uncompleted Waring
 
-I haven't complete the most basic changes that I want to make for this mod of SPD. This fork has no different with 00-evan's now.
+I haven't complete the most basic changes that I want to make for this mod of SPD. This fork has had no difference with 00-evan's yet.
 
 # Moddable Pixel Dungeon
 
