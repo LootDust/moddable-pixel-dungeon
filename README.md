@@ -15,7 +15,7 @@ Shattered Pixel Dungeon currently compiles for Android, iOS, and Desktop platfor
 [![Steam](https://shatteredpixel.com/assets/images/steam-badge.png)](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/)
 [![Github Releases](https://shatteredpixel.com/assets/images/github-badge.png)](https://github.com/00-Evan/shattered-pixel-dungeon/releases)
 
-If you like this game, please consider [supporting me on Patreon](https://www.patreon.com/ShatteredPixel)!
+If you like this game, please consider [supporting evan on Patreon](https://www.patreon.com/ShatteredPixel)!
 
 There is an official blog for this project at [ShatteredPixel.com](https://www.shatteredpixel.com/blog/).
 
