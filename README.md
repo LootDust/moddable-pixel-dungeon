@@ -1,6 +1,6 @@
 # Uncompleted Waring
 
-I haven't complete the most basic changes that I want to make for this mod of SPD. This fork has had no difference with 00-evan's yet.
+I haven't completed the most basic changes that I want to make for this mod of SPD. This fork has had no functional difference with 00-evan's yet.
 
 # Moddable Pixel Dungeon
 
@@ -20,6 +20,12 @@ If you like SPD, please consider [supporting evan on Patreon](https://www.patreo
 There is an official blog for SPD at [ShatteredPixel.com](https://www.shatteredpixel.com/blog/).
 
 SPD also has a translation project hosted on [Transifex](https://www.transifex.com/shattered-pixel/shattered-pixel-dungeon/).
+
+## For players
+
+Because MPD is almost totally based on SPD, I am strongly suggesting players to enjoy the original SPD trip first without adding mods before. And MPD will follow the steps of SPD as soon as its new formal versions released if possible, so you can get the experience of original SPD here too as SPD is also a vanilla mod pack of MPD.
+
+## For modders
 
 Note that **this repository does not accept pull requests!** The code here is provided in hopes that others may find it useful for their own projects, not to allow community contribution. Issue reports of all kinds (bug reports, feature requests, etc.) are welcome.
 
