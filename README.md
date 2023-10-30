@@ -1,4 +1,4 @@
-# Uncompleted Waring
+# Uncompleted Warning
 
 I haven't completed the most basic changes that I want to make for this mod of SPD. This fork has had no functional difference with 00-evan's yet.
 
